@@ -8,10 +8,10 @@ Seminars
 
 ### Spring 2021
 
-|**Date**| **Paper Title**                                                           | **Presenter** | **Notes** |
-|--------|---------------------------------------------------------------------------|---------------|-----------|
-| 03.01  | [Training for Multi-resolution Inference Using Reusable Quantization Terms](http://www.eecs.harvard.edu/~htk/publication/2021-asplos-zhang-mcdanel-kung-dong.pdf) | Cong Guo      |           |
-| 03.08  | [Toward Efficient Interactions between Python and Native Libraries](https://github.com/usyd-fsalab/ReadingList/blob/main/pdf/asplos21-paper586.pdf) | Yuxian Qiu | |
+|**Date**| **Paper Title**                                                           | **Presenter** | **Notes** | **Published** |
+|--------|---------------------------------------------------------------------------|---------------|-----------|---------------|
+| 03.01  | [Training for Multi-resolution Inference Using Reusable Quantization Terms](http://www.eecs.harvard.edu/~htk/publication/2021-asplos-zhang-mcdanel-kung-dong.pdf) | Cong Guo      |           | |
+| 03.08  | [Toward Efficient Interactions between Python and Native Libraries](https://github.com/usyd-fsalab/ReadingList/blob/main/pdf/asplos21-paper586.pdf) | Yuxian Qiu | | |
 | 03.15  | [SpAtten: Efficient Natural Language Processing](https://hanlab.mit.edu/projects/spatten/) | Yue Guan | |
 | 03.22  | [X-Stream: Edge-centric Graph Processing using Streaming Partitions](https://github.com/bindscha/x-stream) | Zhihui Zhang | |
 | 03.29  | [Loop Nested Optimization, Polyhedral Model and Micro-2020 Best Paper (Optimizing the Memory Hierarchy by Compositing Automatic Transformations on Computations and Data)](https://ieeexplore.ieee.org/document/9251965) | Zihan Liu | [Slides](https://1drv.ms/p/s!AhjvDaw8hwGhnxs4_fr_F4Nazto9?e=7sEqQQ) |
