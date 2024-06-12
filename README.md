@@ -6,7 +6,7 @@ ReArch Group Paper Reading List
 Seminars
 --------
 
-### Spring 2021
+### Spring 2024
 
 |**Date**| **Paper Title**                                                           | **Presenter** | **Notes** | **Published** |
 |--------|---------------------------------------------------------------------------|---------------|-----------|---------------|
@@ -99,33 +99,6 @@ Seminars
 | 03.28 | DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving | Shuwen Lu | [Slide](./Slides/2024-03-28-swlu-DistServe.pptx)              |
 | 05.09 | [8-bit Transformer Inference and Fine-tuning for Edge Accelerators](https://dl.acm.org/doi/10.1145/3620666.3651368) | Weiming Hu | [Slide](./Slides/2024.05.09-weiming.pdf)                     |
 
-
-
-DNN Architecture
-----------------
-
-[Link](Architecture/DNNAccelerator.md)
-
- 
-
-Deep Learning Compiler
-----------------------
-
-[List Contributed by Zihan Liu](DeepLearningCompiler/DLPaperList.md)
-
- 
-
-Past Architecture Papers
-------------------------
-
-[List Contributed by Jingwen Leng](Architecture/PAST.md)
-
- 
-
-MoE Related Papers
-------------------------
-
-[List Contributed by Shuwen Lu](MoE/MoE.md)
 
 
 Reading List From Other Groups
