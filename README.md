@@ -133,3 +133,5 @@ Reading List From Other Groups
 
 -   [University of Sydney, Future System Architecture
     Lab](https://github.com/usyd-fsalab/ReadingList)
+-   [SJTU-ReArch-Group](https://github.com/SJTU-ReArch-Group/Paper-Reading-List)
+
