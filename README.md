@@ -1,4 +1,4 @@
-ReArch Group Paper Reading List
+Complex Graph Analytics Group Paper Reading List
 ===============================
 
  
