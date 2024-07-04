@@ -8,6 +8,7 @@ Seminars
 
 |**Date**| **Paper Title**                                                           | **Presenter** | **Notes** | **Published** |
 |--------|---------------------------------------------------------------------------|---------------|-----------|---------------|
+| 07.05  | [Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062) | JinChao Yan | [Slides](./Slides/bigbird.pptx) |NeurIPS2020|
 | 06.28  | [Reformer: The Efficient Transformer](https://arxiv.org/abs/2001.04451) | JinChao Yan | [Slides](./Slides/reformer.pptx) |ICLR2020|
 | 05.31  | [A3: Accelerating Attention Mechanisms in Neural Networks with Approximation](https://ieeexplore.ieee.org/document/9065498) | JinChao Yan  | [Slides](./Slides/a3_slide_hpca2020.pptx) |HPCA2020|
 | 06.07  | [SpAtten: Efﬁcient Sparse Attention Architecture with Cascade Token and Head Pruning](https://ieeexplore.ieee.org/document/9407232) | JinChao Yan | [Slides](./Slides/SpAtten-for-long-video-no-animation.pdf) |HPCA2021|
