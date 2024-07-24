@@ -13,7 +13,7 @@ Seminars
 | 05.31  | [A3: Accelerating Attention Mechanisms in Neural Networks with Approximation](https://ieeexplore.ieee.org/document/9065498) | JinChao Yan  | [Slides](./Slides/a3_slide_hpca2020.pptx) |HPCA2020|
 | 06.07  | [SpAtten: Efﬁcient Sparse Attention Architecture with Cascade Token and Head Pruning](https://ieeexplore.ieee.org/document/9407232) | JinChao Yan | [Slides](./Slides/SpAtten-for-long-video-no-animation.pdf) |HPCA2021|
 | 06.12  | [Sanger: A Co-Design Framework for Enabling Sparse Attention using Reconfigurable Architecture](https://dl.acm.org/doi/10.1145/3466752.3480125) | JinChao Yan | [Slides](./Slides/Sanger.pptx) |MICRO2021|
-| 07.26  | [FACT: FFN-Attention Co-optimized Transformer Architecture with Eager Correlation Prediction](https://dl.acm.org/doi/10.1145/3579371.3589057) | JinChao Yan | [Slides](./Slides/FACT.pdf) |ISCA2023|
+|   | [FACT: FFN-Attention Co-optimized Transformer Architecture with Eager Correlation Prediction](https://dl.acm.org/doi/10.1145/3579371.3589057) | JinChao Yan | [Slides](./Slides/FACT.pdf) |ISCA2023|
 
 Reading List From Other Groups
 ------------------------------
